@@ -12,45 +12,47 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Riana =====
-[1]Riana       |11:12:51 | 28-10-2026| login OK @rianaodelia | score=2260 rank=3500
-[1]Riana       |11:12:51 | 28-10-2026| serverTime=2026-10-28T11:12:51.000Z local=2026-10-28T11:12:51.168Z
+[1]Riana       |11:25:45 | 29-10-2026| login OK @rianaodelia | score=2330 rank=3450
+[1]Riana       |11:25:45 | 29-10-2026| serverTime=2026-10-29T11:25:45.000Z local=2026-10-29T11:25:45.191Z
 --> [1]Riana menjalankan: Claim Daily
-[1]Riana       |11:12:52 | 28-10-2026| daily: OK +10 poin score=2270
---> [1]Riana menjalankan: Auto All Tasks (6 pending)
-[1]Riana       |11:12:53 | 28-10-2026| [1/6] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/rianaodelia/status/2115401145145612757
-[1]Riana       |11:12:53 | 28-10-2026| delay 10s...
-[1]Riana       |11:13:05 | 28-10-2026| [2/6] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/rianaodelia/status/2115401000509571918
-[1]Riana       |11:13:05 | 28-10-2026| delay 10s...
-[1]Riana       |11:13:16 | 28-10-2026| [3/6] 1c315c65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/rianaodelia/status/2115400935421091184
-[1]Riana       |11:13:16 | 28-10-2026| delay 10s...
-[1]Riana       |11:13:28 | 28-10-2026| [4/6] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/rianaodelia/status/2115401050718858335
-[1]Riana       |11:13:28 | 28-10-2026| delay 10s...
-[1]Riana       |11:13:40 | 28-10-2026| [5/6] 3f7b08ea (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/rianaodelia/status/2115401002425532853
-[1]Riana       |11:13:40 | 28-10-2026| delay 10s...
-[1]Riana       |11:13:52 | 28-10-2026| [6/6] 84429acd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/rianaodelia/status/2115401273709933003
-[1]Riana       |11:13:52 | 28-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Riana       |11:13:54 | 28-10-2026| [1/1] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115392140092317 | proof=https://x.com/rianaodelia/status/2115401063164090545
+[1]Riana       |11:25:46 | 29-10-2026| daily: OK +10 poin score=2340
+--> [1]Riana menjalankan: Auto All Tasks (7 pending)
+[1]Riana       |11:25:47 | 29-10-2026| [1/7] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/rianaodelia/status/2115766721865268297
+[1]Riana       |11:25:47 | 29-10-2026| delay 10s...
+[1]Riana       |11:25:59 | 29-10-2026| [2/7] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/rianaodelia/status/2115766682321403340
+[1]Riana       |11:25:59 | 29-10-2026| delay 10s...
+[1]Riana       |11:26:11 | 29-10-2026| [3/7] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/rianaodelia/status/2115766845490495626
+[1]Riana       |11:26:11 | 29-10-2026| delay 10s...
+[1]Riana       |11:26:23 | 29-10-2026| [4/7] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/rianaodelia/status/2115766568697140759
+[1]Riana       |11:26:23 | 29-10-2026| delay 10s...
+[1]Riana       |11:26:35 | 29-10-2026| [5/7] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/rianaodelia/status/2115766923500221065
+[1]Riana       |11:26:35 | 29-10-2026| delay 10s...
+[1]Riana       |11:26:47 | 29-10-2026| [6/7] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/rianaodelia/status/2115766860294439364
+[1]Riana       |11:26:47 | 29-10-2026| delay 10s...
+[1]Riana       |11:26:58 | 29-10-2026| [7/7] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
+[1]Riana       |11:26:58 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Riana       |11:27:00 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/rianaodelia/status/2115766740101593780
 --> [1]Riana menjalankan: Watch Anime
-[1]Riana       |11:13:54 | 28-10-2026| watch: semua video sudah completed
+[1]Riana       |11:27:00 | 29-10-2026| watch: semua video sudah completed
 --> [1]Riana menjalankan: Read Article
-[1]Riana       |11:13:55 | 28-10-2026| news: 30/30 artikel selesai dibaca
-[1]Riana       |11:13:56 | 28-10-2026| mint eligibility: {"userId":"1748250050420207616","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rianaodelia","status":"submitted","revision":"aef4b1fd-e13c-45db-9773-e4224264c0
-[1]Riana       |11:13:56 | 28-10-2026| news: semua artikel sudah dibaca
+[1]Riana       |11:27:02 | 29-10-2026| news: 30/30 artikel selesai dibaca
+[1]Riana       |11:27:02 | 29-10-2026| mint eligibility: {"userId":"1748250050420207616","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rianaodelia","status":"submitted","revision":"aef4b1fd-e13c-45db-9773-e4224264c0
+[1]Riana       |11:27:02 | 29-10-2026| news: semua artikel sudah dibaca
 --> [1]Riana menjalankan: Quiz Anime
 --> [1]Riana menjalankan: Music Missions (realtime, bisa lama!)
-[1]Riana       |11:13:58 | 28-10-2026| music: kedua misi sudah tercapai, stop
-[1]Riana       |11:13:58 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Riana       |11:13:58 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Riana       |11:13:58 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Riana       |11:27:04 | 29-10-2026| music: kedua misi sudah tercapai, stop
+[1]Riana       |11:27:05 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Riana       |11:27:05 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Riana       |11:27:05 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Riana menjalankan: Claim Missions
-[1]Riana       |11:13:59 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Riana       |11:13:59 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Riana       |11:13:59 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Riana       |11:27:05 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Riana       |11:27:05 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Riana       |11:27:05 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Riana menjalankan: Check Eligibility
 
 --- eligibility [1]Riana ---
-  @rianaodelia | score=2260 rank=3500
-  tasks    [#############-------] 11/17
+  @rianaodelia | score=2330 rank=3450
+  tasks    [#######-------------] 4/11
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -61,15 +63,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Riana menjalankan: Read Manga
-[1]Riana       |11:14:02 | 28-10-2026| manga: 0/13 chapter belum completed
+[1]Riana       |11:27:08 | 29-10-2026| manga: 0/13 chapter belum completed
 --> [1]Riana menjalankan: Get Gift
-[1]Riana       |11:14:03 | 28-10-2026| gift: 1/5 belum diterima
-[1]Riana       |11:14:04 | 28-10-2026| gift [1/1] Oshii animated GIFs: OK
+[1]Riana       |11:27:08 | 29-10-2026| gift: 0/5 belum diterima
 --> [1]Riana menjalankan: Setup Profile
-[1]Riana       |11:14:06 | 28-10-2026| profile: bio="https://x.com/rianaodelia" fav=oshi rewardAt=1791704659
-[1]Riana       |11:14:06 | 28-10-2026| profile: bonus sudah diklaim, skip
+[1]Riana       |11:27:09 | 29-10-2026| profile: bio="https://x.com/rianaodelia" fav=oshi rewardAt=1791704659
+[1]Riana       |11:27:09 | 29-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Riana menjalankan: Bind Wallet
-[1]Riana       |11:14:07 | 28-10-2026| wallet: sudah terikat CMuDxjYvrY... (solana)
+[1]Riana       |11:27:10 | 29-10-2026| wallet: sudah terikat CMuDxjYvrY... (solana)
 
 == RINGKASAN ==
-- Riana: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/5 diterima | profile - | wallet bound | mint req=false open=false
+- Riana: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
